@@ -1,27 +1,37 @@
-# Hi, I'm 933yee
+# Zi-Xian Li
 
-I'm a master's student in computer science at NTHU.
+M.S. student in Computer Science at National Tsing Hua University, working in the VLSI/CAD Lab.
 
-I use this profile to keep track of course projects and things I build while learning. Most of my recent work is related to computer graphics, GPU programming, digital hardware, VLSI design automation, and machine learning.
+My current interests include VLSI design automation, C++ systems programming, computer graphics, and GPU programming.
+
+## Experience
+
+- **Digital IC Design Intern, MediaTek**<br>
+  Developed a numerical prototype for chip–package power-delivery network analysis and evaluated reconstructed bump-voltage waveforms against simulation results.
+
+- **Frontend Engineer, Carbon Walker Technology**<br>
+  Developed and maintained a production Flutter application serving 2,400+ registered users, including configurable reward rules and enterprise activity workflows.
+
+- **Project Contributor, NTHU Computer Graphics and Visualization Lab**<br>
+  Worked on CARLA and Unreal Engine projects involving C++ RPC extensions, Python bindings, procedural city generation, simulation data integration, and Pixel Streaming.
 
 ## Selected projects
 
-- [UE5 Compute Shader](https://github.com/933yee/UE5_ComputeShader) — a small Unreal Engine 5 example that runs a compute shader through the Render Dependency Graph.
-- [Unity Compute Shader](https://github.com/933yee/Unity_Compute_Shader) — experiments with render textures, compute buffers, and GPU instancing in Unity.
-- [Verilog Tetris](https://github.com/933yee/Verilog_Tetris) — a Tetris implementation for the Basys 3 FPGA with VGA, PS/2 keyboard input, and audio output.
-- [Arduino Game Controller](https://github.com/933yee/Arduino_Game_Controller) — a custom Arduino controller used with several Unity game demos.
+| Project | Description |
+| --- | --- |
+| [VLSI Physical Design Automation](https://github.com/933yee/NTHU_VLSI_Physical_Design_Automation) | C++ implementations of FM partitioning, fixed-outline floorplanning, symmetry-aware analog placement, and placement legalization. |
+| [VLSI Design for Manufacturability](https://github.com/933yee/NTHU_VLSI_Design_for_Manufacturability) | A triple-row dynamic-programming approach for placement refinement and manufacturing-aware power-staple insertion. |
+| [Graphics Programming and Applications](https://github.com/933yee/NTHU_Graphics_Programming_and_Applications) | OpenGL projects covering post-processing, GPU culling, deferred shading, SSAO, bloom, and volumetric lighting. |
+| [UE5 Compute Shader](https://github.com/933yee/UE5_ComputeShader) | An Unreal Engine 5 compute-shader example using the Render Dependency Graph and GPU-driven instancing. |
+| [Verilog Tetris](https://github.com/933yee/Verilog_Tetris) | An FPGA Tetris implementation with VGA output, PS/2 keyboard input, game logic, and PWM audio. |
 
-## Coursework
+## Technical background
 
-- [Graphics Programming and Applications](https://github.com/933yee/NTHU_Graphics_Programming_and_Applications)
-- [Computer Graphics](https://github.com/933yee/NTHU_Computer_Graphics)
-- [Deep Learning](https://github.com/933yee/NTHU_Deep_Learning)
-- [Natural Language Processing](https://github.com/933yee/NTHU_Natural_Language_Processing)
-- [VLSI Physical Design Automation](https://github.com/933yee/NTHU_VLSI_Physical_Design_Automation)
-- [VLSI Design for Manufacturability](https://github.com/933yee/NTHU_VLSI_Design_for_Manufacturability)
-- [Hardware Security](https://github.com/933yee/NTHU_Hardware_Security)
-- [Integrated Circuit Design](https://github.com/933yee/NTHU_Integrated_Circuit_Design)
+- **Languages:** C/C++, Python, Dart
+- **Frameworks and platforms:** Flutter, Unreal Engine, OpenGL
+- **EDA tools:** PowerSI, Voltus, HSPICE
+- **Development tools:** Linux, Git
 
-## Tools I've used
+## Contact
 
-C++ · C# · Python · Verilog · OpenGL/GLSL · Unity · Unreal Engine · PyTorch · TensorFlow · SystemC · SPICE
+[kevin110062222@gmail.com](mailto:kevin110062222@gmail.com)
