@@ -4,4 +4,4 @@ Interested in VLSI design automation, computer graphics, GPU programming, and C+
 
 C/C++ · Python · Verilog · Dart · OpenGL · Unreal Engine · Flutter · Linux · Git
 
-[Email](mailto:kevin110062222@gmail.com)
+[kevin110062222@gmail.com](mailto:kevin110062222@gmail.com)
