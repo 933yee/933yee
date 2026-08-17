@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">933yee GitHub profile banner</title>
+  <desc id="desc">A dark gradient banner introducing 933yee and the focus areas graphics, GPU computing, digital hardware, VLSI, and machine learning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="0.52" stop-color="#102746"/>
+      <stop offset="1" stop-color="#24133f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#27d3c2"/>
+      <stop offset="0.52" stop-color="#55a8ff"/>
+      <stop offset="1" stop-color="#b477ff"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8ab4e8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="1050" cy="25" r="175" fill="#6c4cff" opacity="0.15" filter="url(#glow)"/>
+  <circle cx="120" cy="300" r="180" fill="#16c8bb" opacity="0.13" filter="url(#glow)"/>
+
+  <g transform="translate(86 64)">
+    <rect width="10" height="118" rx="5" fill="url(#accent)"/>
+    <text x="42" y="62" fill="#f4f8ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="1">Hi, I'm 933yee.</text>
+    <text x="45" y="112" fill="#b8cae3" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="400" letter-spacing="0.4">I like building things where software meets hardware.</text>
+  </g>
+
+  <g transform="translate(88 225)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" font-weight="600">
+    <rect width="166" height="38" rx="19" fill="#27d3c2" fill-opacity="0.12" stroke="#27d3c2" stroke-opacity="0.55"/>
+    <text x="83" y="25" fill="#71efe2" text-anchor="middle">GRAPHICS &amp; GPU</text>
+    <rect x="180" width="184" height="38" rx="19" fill="#55a8ff" fill-opacity="0.12" stroke="#55a8ff" stroke-opacity="0.55"/>
+    <text x="272" y="25" fill="#8bc4ff" text-anchor="middle">DIGITAL HARDWARE</text>
+    <rect x="378" width="98" height="38" rx="19" fill="#b477ff" fill-opacity="0.12" stroke="#b477ff" stroke-opacity="0.55"/>
+    <text x="427" y="25" fill="#cea2ff" text-anchor="middle">VLSI</text>
+    <rect x="490" width="186" height="38" rx="19" fill="#f48fb1" fill-opacity="0.11" stroke="#f48fb1" stroke-opacity="0.5"/>
+    <text x="583" y="25" fill="#ffb1ca" text-anchor="middle">MACHINE LEARNING</text>
+  </g>
+
+  <g transform="translate(1020 161)" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+    <path d="M0 42h24l12-28 22 60 17-43h37"/>
+    <circle cx="0" cy="42" r="6" fill="#27d3c2" stroke="none"/>
+    <circle cx="112" cy="31" r="6" fill="#b477ff" stroke="none"/>
+  </g>
+</svg>
