@@ -36,8 +36,6 @@
 - 🎮 [**FPGA Tetris**](https://github.com/933yee/Verilog_Tetris)  
   A complete Tetris game implemented in Verilog for the Basys 3 FPGA.
 
-## Repository Languages
-
 ## GitHub Overview
 
 <!--
@@ -63,12 +61,6 @@ Forked tutorial repositories are excluded from the language chart.
     >
   </picture>
 
-</p>
-
-<p align="center">
-  <sub>
-    Language distribution is based on the primary language of each public repository, not programming proficiency.
-  </sub>
 </p>
 
 <p align="center">
