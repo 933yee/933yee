@@ -1,15 +1,12 @@
 <div align="center">
 
-<h1>Hi, I'm 933yee 👋</h1>
-
 <p>
-  M.S. student in Computer Science at National Tsing Hua University,<br>
-  working in the VLSI/CAD Lab.
+  M.S. student in Computer Science at National Tsing Hua University, working in the VLSI/CAD Lab.
 </p>
 
 <p>
   <strong>
-    VLSI Design Automation · Computer Graphics · GPU Programming · C++ Systems Programming
+    VLSI Design Automation · Computer Graphics · GPU Programming
   </strong>
 </p>
 
@@ -25,6 +22,22 @@
 
 </div>
 
+## Selected Projects
+
+- 🧱 [**VLSI Physical Design Automation**](https://github.com/933yee/NTHU_VLSI_Physical_Design_Automation)  
+  C++ implementations of partitioning, floorplanning, placement, and legalization algorithms.
+
+- 🐟 [**UE5 Compute Shader**](https://github.com/933yee/UE5_ComputeShader)  
+  GPU programming and compute-shader experiments in Unreal Engine 5.
+
+- 🌄 [**Graphics Programming**](https://github.com/933yee/NTHU_Graphics_Programming_and_Applications)  
+  Real-time rendering with OpenGL, including deferred shading, SSAO, bloom, and GPU culling.
+
+- 🎮 [**FPGA Tetris**](https://github.com/933yee/Verilog_Tetris)  
+  A complete Tetris game implemented in Verilog for the Basys 3 FPGA.
+
+## Repository Languages
+
 ## GitHub Overview
 
 <!--
@@ -33,24 +46,6 @@ Forked tutorial repositories are excluded from the language chart.
 -->
 
 <p align="center">
-
-  <!-- GitHub statistics -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=933yee&amp;theme=github_dark"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=933yee&amp;theme=github"
-    >
-    <img
-      height="180"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=933yee&amp;theme=github"
-      alt="933yee's GitHub statistics"
-    >
-  </picture>
-
   <!-- Repository language distribution -->
   <picture>
     <source
