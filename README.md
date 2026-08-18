@@ -1,7 +1,8 @@
 <div align="center">
 
 <p>
-  M.S. student in Computer Science at National Tsing Hua University, working in the VLSI/CAD Lab.
+  M.S. student in Computer Science at National Tsing Hua University,
+  working in the VLSI/CAD Lab.
 </p>
 
 <p>
@@ -36,7 +37,7 @@
 - 🎮 [**FPGA Tetris**](https://github.com/933yee/Verilog_Tetris)  
   A complete Tetris game implemented in Verilog for the Basys 3 FPGA.
 
-## GitHub Overview
+## Repository Languages
 
 <!--
 SourcePawn is excluded because GitHub may classify SPICE .sp files as SourcePawn.
@@ -44,7 +45,6 @@ Forked tutorial repositories are excluded from the language chart.
 -->
 
 <p align="center">
-  <!-- Repository language distribution -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -60,7 +60,6 @@ Forked tutorial repositories are excluded from the language chart.
       alt="Languages used across public repositories"
     >
   </picture>
-
 </p>
 
 <p align="center">
