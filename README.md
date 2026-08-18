@@ -13,23 +13,17 @@ Forked tutorial repositories are excluded from this chart.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=933yee&amp;layout=donut&amp;langs_count=10&amp;theme=github_dark&amp;hide_border=true&amp;hide=SourcePawn&amp;exclude_repo=leedl-tutorial%2CDeep-Learning-with-PyTorch%2Cpython-docs-zh-tw"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=933yee&amp;theme=github_dark&amp;exclude=SourcePawn&amp;exclude_repos=leedl-tutorial%2CDeep-Learning-with-PyTorch%2Cpython-docs-zh-tw"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=933yee&amp;layout=donut&amp;langs_count=10&amp;theme=default&amp;hide_border=true&amp;hide=SourcePawn&amp;exclude_repo=leedl-tutorial%2CDeep-Learning-with-PyTorch%2Cpython-docs-zh-tw"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=933yee&amp;theme=github&amp;exclude=SourcePawn&amp;exclude_repos=leedl-tutorial%2CDeep-Learning-with-PyTorch%2Cpython-docs-zh-tw"
     >
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=933yee&amp;layout=donut&amp;langs_count=10&amp;theme=default&amp;hide_border=true&amp;hide=SourcePawn&amp;exclude_repo=leedl-tutorial%2CDeep-Learning-with-PyTorch%2Cpython-docs-zh-tw"
-      alt="Programming language distribution across public repositories"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=933yee&amp;theme=github&amp;exclude=SourcePawn&amp;exclude_repos=leedl-tutorial%2CDeep-Learning-with-PyTorch%2Cpython-docs-zh-tw"
+      alt="Languages used across public repositories"
     >
   </picture>
-</p>
-
-<p align="center">
-  <sub>
-    Calculated from code detected in public repositories. This represents repository code volume, not proficiency.
-  </sub>
 </p>
 
 [kevin110062222@gmail.com](mailto:kevin110062222@gmail.com)
